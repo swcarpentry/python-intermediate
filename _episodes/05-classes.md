@@ -1,7 +1,7 @@
 ---
 title: Classes (in Python)
-teaching: 360
-exercises: 90
+teaching: 60
+exercises: 30
 questions:
 - "What is a 'class'?"
 - "Why is it useful?"
